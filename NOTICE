@@ -1,0 +1,15 @@
+Firmware-derived EFS overlay data
+
+Source: Xiaomi nezha OS3.0.337.0.XPAMIXM MODEM-FW.bin
+Image SHA256: 4d9c8b48f0b50259ad9192ae394217ae24a0958b7a601820683b441d2daf5c6a
+All 430 software profiles not overlapping wuji 262 are retained.
+These are file-item overlays, not signed MBNs or complete NV configuration.
+The user accepted responsibility for this data provenance. No redistribution
+license is inferred from extraction or public availability. Source-code
+licenses do not cover these payloads. The index records every source MBN
+digest and every archive/item digest.
+
+Automatic home matches are limited to the explicit Korea identities in the
+wuji design. Other trailer integer MNCs retain no digit width; ambiguous
+variants, XML roaming selectors and header indexes cannot establish home
+identity. Review exact mappings before extending home_plmns.
